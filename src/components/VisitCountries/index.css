@@ -1,0 +1,31 @@
+li {
+  border-bottom: 1px solid #94a3b8;
+  padding: 13px;
+  font-size: 17px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 10px;
+}
+
+.country-name {
+  color: #f1f5f9;
+}
+
+button {
+  background-color: #3b82f6;
+  outline: none;
+  cursor: pointer;
+  border: 0;
+  color: #ffffff;
+  width: 70px;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 600;
+}
+p {
+  color: #94a3b8;
+  font-size: 14px;
+  margin-right: 13px;
+}

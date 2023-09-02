@@ -1,0 +1,28 @@
+.visit-country-item {
+  border: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: #1f1f2e;
+  margin: 10px;
+}
+
+img {
+  width: 250px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+.visit-country-item div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.visit-country-item button {
+  background-color: transparent;
+  border: 1px solid #94a3b8;
+  width: 80px;
+}
+.visit-country-item p {
+  font-size: 20px;
+}
